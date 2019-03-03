@@ -1,0 +1,2 @@
+Polecenia systemu windows:
+cd- porusznie siê po folderach
