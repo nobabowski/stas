@@ -1,2 +1,3 @@
 Polecenia systemu windows:
 cd- porusznie siê po folderach
+dir- sprawdza co jest w folderze
